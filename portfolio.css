@@ -20,10 +20,10 @@ nav{
     align-items: center;
     justify-content: space-between;
     padding: 20px 0;
-    font-size: 25px;
+    font-size: 20px;
 }
 .logo{
-    width: 120px;
+    width: 100px;
 }
 nav ul li{
     display: inline-block;
