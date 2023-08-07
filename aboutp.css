@@ -24,7 +24,7 @@ body {
     padding: 20px;
     max-width: 600px;
     margin: 0 auto;
-    background-color:rgb(126, 231, 231);
+    background-color:rgb(4, 4, 92);
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     z-index: 1;
@@ -32,26 +32,34 @@ body {
 
 h1 {
     text-align: center;
+    color: #fff;
+}
+h2{
+    color: #fff;
 }
 
 p {
     margin-bottom: 20px;
+    color: #fff;
 }
 
 .skills {
     display: flex;
     justify-content: space-between;
+    color: #fff;
 }
 
 .skill {
     text-align: center;
     flex: 1;
+    color: #fff;
 }
 
 .skill img {
     width: 80px;
     height: 80px;
     margin-bottom: 10px;
+    color: #fff;
 }
 
 .skill span {
